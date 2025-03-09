@@ -6,7 +6,7 @@ A comprehensive web platform designed to help students discover and engage with 
 
 - **Club Management**
   - Browse and discover campus clubs
-  - Detailed club information and membership
+  - Detailed club information
   - Club events and activities
 
 - **Event System**
@@ -23,6 +23,12 @@ A comprehensive web platform designed to help students discover and engage with 
   - Customizable student profiles
   - Profile setup and editing
   - Track club memberships and events
+
+
+- **KARE Assistant (ChatBot)**
+  - 
+  - 
+  - 
 
 ## 🛠️ Technologies Used
 
