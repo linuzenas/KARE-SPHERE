@@ -1,4 +1,3 @@
-![kare-logo](https://github.com/user-attachments/assets/617b7686-dfd0-4c80-9c97-c4badc3f7b02)
 # KARE-SPHERE
 
 A comprehensive web platform designed to help students discover and engage with campus clubs, events, and career guidance.
@@ -53,7 +52,7 @@ npm start
 ## 👥 Authors
 1. Petlu Linu Zenas Paul
 2. Inukurthi Bharath Kumar
-3. VijayaShekar C
+3. Vijayashekar C
 
 ## 🙏 Acknowledgments
 - All contributors who helped in building this project
