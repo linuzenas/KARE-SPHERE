@@ -37,7 +37,7 @@ A comprehensive web platform designed to help students discover and engage with 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/KARE-SPHERE.git
+git clone https://github.com/linuzenas/KARE-SPHERE.git
 ```
 2. Run in terminal
 ```bash
